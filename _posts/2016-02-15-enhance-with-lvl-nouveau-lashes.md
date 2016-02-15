@@ -17,8 +17,8 @@ keywords:
   - tint
   - treatment
 description: 'Introducing LVL Lashes, the natural lash lift by Nouveau Lashes. The no.1 alternative to false eyelashes or extensions'
-datePublished: '2016-02-15T06:19:34.144Z'
-dateModified: '2016-02-15T06:19:31.516Z'
+datePublished: '2016-02-15T06:52:29.722Z'
+dateModified: '2016-02-15T06:52:27.371Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Enhance With Lvl - Nouveau Lashes</h1><p>Introducing LVL Lashes, the natural lash lift by Nouveau Lashes. The no.1 alternative to false eyelashes or extensions</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb076ab7a751d3fa365be317453357c697879b53.jpg" /></article>
+<article style=""><h1>Enhance With Lvl - Nouveau Lashes</h1><p>Introducing LVL Lashes, the natural lash lift by Nouveau Lashes. The no.1 alternative to false eyelashes or extensions</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6191be84a792413645d18b73720f4df81733e95c.jpg" /></article>
