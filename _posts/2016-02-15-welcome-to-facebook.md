@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T22:04:34.488Z'
-dateModified: '2016-02-15T22:04:30.485Z'
+datePublished: '2016-02-15T22:07:02.587Z'
+dateModified: '2016-02-15T22:07:00.940Z'
 author: []
 related: []
 app_links: []
@@ -25,6 +25,8 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-> Love love LOVE my volume lashes from Carrie __smile emoticon __they are beautiful and last ages! Perfect x
-
 <article style=""><h1>Facebook Review</h1></article>
+
+**_Janine Claire Saddler_**
+
+> Love love LOVE my volume lashes from Carrie :) they are beautiful and last ages! Perfect x
