@@ -1,7 +1,7 @@
 name: "Carrie's Lashes"
 favicon: null
 layout_spectrum: 0.97165
-typography_spectrum: 0.27963
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#8c9fad'
   brandStrength: 0.5
   lightness: 0.25
-  saturation: 0.375
+  saturation: 0.25
   rhythmicContrast: 0.8852408973034471
 purpose: []
