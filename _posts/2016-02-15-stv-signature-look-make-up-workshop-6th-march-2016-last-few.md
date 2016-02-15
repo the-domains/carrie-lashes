@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: STV Signature look Make-up Workshop 6th March 2016 LAST FEW SPACES remaining...... Learn the art of make up in this SIGNATURE LOOK make-up workshop...
-datePublished: '2016-02-15T09:22:40.950Z'
-dateModified: '2016-02-15T09:22:38.451Z'
+datePublished: '2016-02-15T09:37:37.252Z'
+dateModified: '2016-02-15T09:37:30.378Z'
 author:
   - name: STV Cosmetics
     url: 'http://facebook.com/1284120221614275'
@@ -28,7 +28,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-STV - **STEVIE **COMSETIC **MAKEUP - Fantastic colleague of mine!**
+STV - **STEVIE **COMSETIC **MAKEUP - **Fantastic colleague of mine!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d59755c-5274-4c55-a43b-35a079dbdf32.jpg)
 
 > STV Signature look Make-up Workshop 6th March 2016 LAST FEW SPACES remaining...... Learn the art of make up in this SIGNATURE LOOK make-up workshop...
