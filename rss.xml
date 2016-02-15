@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Carrie Lashes]]></title>
         <description><![CDATA[Carrie Lashes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/carrie-lashes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 05:49:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 05:49:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/carrie-lashes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How To Remove Eyelash Extensions At Home by Nouveau Lashes]]></title>
+            <description><![CDATA[<article><h1>How To Remove Eyelash Extensions At Home by Nouveau Lashes</h1><p>Check out our tutorial showing the best way to remove your eyelash extensions from the comfort of your own home using our revolutionary new product</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15ab348a445a96566ee86aeb647b13436da31283.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=4tr9u8T0Dpw</link>
+            <guid isPermaLink="false">2413261d-6225-4888-8680-ff203da58d10</guid>
+            <pubDate>Mon, 15 Feb 2016 05:49:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-lhr3-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/12744495_1548251408821373_8118085735388949197_n.jpg?oh=49ea64a42cc80a471ae3c49ee2b47429&oe=576E6F31">]]></description>
-            <link>undefined77171741-aa77-4dc9-bc08-c2dc280fc069/index.html</link>
+            <link>https://thegrid.ai/carrie-lashes/77171741-aa77-4dc9-bc08-c2dc280fc069/index.html</link>
             <guid isPermaLink="false">77171741-aa77-4dc9-bc08-c2dc280fc069</guid>
             <pubDate>Mon, 15 Feb 2016 05:49:23 GMT</pubDate>
         </item>
