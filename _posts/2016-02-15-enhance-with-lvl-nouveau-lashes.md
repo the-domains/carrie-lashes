@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://nouveaulashes.com'
-  name: Nouveaulashes
-  favicon: 'https://nouveaulashes.com/favicon.ico'
-  domain: nouveaulashes.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://nouveaulashes.com/lvl-enhance-the-natural-lash-lift'
+inLanguage: en
+starred: false
 keywords:
   - lash
   - lvl
@@ -18,19 +17,22 @@ keywords:
   - tint
   - treatment
 description: 'Introducing LVL Lashes, the natural lash lift by Nouveau Lashes. The no.1 alternative to false eyelashes or extensions'
-inLanguage: en
+datePublished: '2016-02-15T06:19:34.144Z'
+dateModified: '2016-02-15T06:19:31.516Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://nouveaulashes.com/lvl-enhance-the-natural-lash-lift'
 title: Enhance With Lvl - Nouveau Lashes
-datePublished: '2016-02-15T05:49:23.802Z'
-dateModified: '2016-02-15T05:43:17.301Z'
 sourcePath: _posts/2016-02-15-enhance-with-lvl-nouveau-lashes.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Nouveaulashes
+  domain: nouveaulashes.com
+  url: 'https://nouveaulashes.com'
+  favicon: 'https://nouveaulashes.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Enhance With Lvl - Nouveau Lashes</h1><p>Introducing LVL Lashes&amp;comma; the natural lash lift by Nouveau Lashes&amp;period; The no&amp;period;1 alternative to false eyelashes or extensions</p><img src="https://nouveaulashes.com/slir/w685/images/uploads/lvl2.jpg" /></article>
+<article style=""><h1>Enhance With Lvl - Nouveau Lashes</h1><p>Introducing LVL Lashes, the natural lash lift by Nouveau Lashes. The no.1 alternative to false eyelashes or extensions</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb076ab7a751d3fa365be317453357c697879b53.jpg" /></article>
