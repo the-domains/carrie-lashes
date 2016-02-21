@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Lash Volume Lift
-datePublished: '2016-02-21T13:35:26.465Z'
-dateModified: '2016-02-21T13:33:43.041Z'
+datePublished: '2016-02-21T13:37:28.895Z'
+dateModified: '2016-02-21T13:37:17.856Z'
 title: LVL - Lash Lift
 author: []
 sourcePath: _posts/2016-02-21-lvl-lash-lift.md
@@ -44,7 +44,7 @@ Your natural lashes will promote the benefit of LVL Enhance for up to 6-8 weeks.
 ### _WHAT DOES IT LOOK LIKE?_
 
 __
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db056fc0-c078-46ba-be81-aa515836f381.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/baae52d447e7d260bfade2bac69689ddeaf8b34e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c134dbec-48e9-42f9-bc75-928aa6dfd741.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54cb4ad4-872d-4cc1-8014-19a3c440dee9.jpg)
 
