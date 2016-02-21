@@ -16,8 +16,8 @@ keywords:
   - ln6
   - 9st
 description: 'Carrie Fuell. 1,292 likes · 9 talking about this. I am an international company trainer for Nouveau Lashes and I have recently located from London to...'
-datePublished: '2016-02-16T14:57:03.255Z'
-dateModified: '2016-02-16T14:57:00.669Z'
+datePublished: '2016-02-21T13:51:40.874Z'
+dateModified: '2016-02-21T13:51:36.201Z'
 author:
   - avatar:
       src: 'https://scontent.xx.fbcdn.net/hprofile-xal1/v/t1.0-1/c0.0.160.160/p160x160/1526523_1381785708801278_3982774152181188934_n.jpg?oh=d3eb7c45c9392ca311197f00201b97d0&oe=5726E2C5'
@@ -63,7 +63,7 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-**[Carrie Fuell - Lash Artist - Contact me on FB][0]**
+**[Contact me on Facebook][0]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b19f5c21-ee01-46b0-bfaf-216824c6cf0c.gif)
 
-[0]: https://m.facebook.com/carrie.fuell/?tsid=0.7442600014619529&source=typeahead
+[0]: null
