@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Lash Volume Lift
-datePublished: '2016-02-21T13:43:13.950Z'
-dateModified: '2016-02-21T13:43:00.116Z'
+datePublished: '2016-02-21T13:45:29.934Z'
+dateModified: '2016-02-21T13:45:16.758Z'
 title: LVL - Lash Lift
 author: []
 sourcePath: _posts/2016-02-21-lvl-lash-lift.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: lvl-lash-lift/index.html
-_type: WebPage
+_type: Article
 
 ---
 # LVL - Lash Lift
