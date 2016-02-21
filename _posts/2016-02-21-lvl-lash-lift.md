@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Lash Volume Lift
-datePublished: '2016-02-21T13:40:12.306Z'
-dateModified: '2016-02-21T13:39:36.375Z'
+datePublished: '2016-02-21T13:42:47.280Z'
+dateModified: '2016-02-21T13:42:22.203Z'
 title: LVL - Lash Lift
 author: []
 sourcePath: _posts/2016-02-21-lvl-lash-lift.md
@@ -42,6 +42,8 @@ Ideal for those seeking a more natural look, the treatment takes just 40 minutes
 Your natural lashes will promote the benefit of LVL Enhance for up to 6-8 weeks. Little maintenance is required once you leave the salon. What's more, by combining the treatment with regular use of our unique Nouveau Lashes [Conditioning Serum][0] to nourish your lashes, you could be about to say goodbye to mascara for good!
 
 ### _WHAT DOES IT LOOK LIKE?_
+
+__
 
 __
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/baae52d447e7d260bfade2bac69689ddeaf8b34e.jpg)
