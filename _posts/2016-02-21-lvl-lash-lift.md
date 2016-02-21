@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Lash Volume Lift
-datePublished: '2016-02-21T13:52:37.044Z'
-dateModified: '2016-02-21T13:52:34.761Z'
+datePublished: '2016-02-21T14:23:42.168Z'
+dateModified: '2016-02-21T14:23:23.227Z'
 title: LVL - Lash Lift
 author: []
 sourcePath: _posts/2016-02-21-lvl-lash-lift.md
@@ -27,7 +27,7 @@ _type: Article
 
 ##### CREATED EXCLUSIVELY BY NOUVEAU LASHES, LVL ENHANCE IS THE REVOLUTIONARY NATURAL LASH TREATMENT TAKING THE BEAUTY INDUSTRY BY STORM. CLICK HERE FOR MORE DETAILS x
 
-The treatment straightens your natural eyelashes at the root, so unlike a traditional lash perm it creates the effect of longer, lifted lashes in just 40 minutes. They'll stay that way for six to eight weeks, especially when you nurture your lashes with our exclusive [Nouveau Lashes Conditioning Serum][0]. The results are immediate, plus the added lash tint creates a mascara-type effect so you are always ready to go.
+_The treatment straightens your natural eyelashes at the root, so unlike a traditional lash perm it creates the effect of longer, lifted lashes in just 40 minutes. They'll stay that way for six to eight weeks, especially when you nurture your lashes with our exclusive [Nouveau Lashes Conditioning Serum][0]. The results are immediate, plus the added lash tint creates a mascara-type effect so you are always ready to go._
 
 ### _HOW DOES IT WORK?_
 
@@ -35,7 +35,7 @@ Unlike a traditional lash perm, LVL Enhance straightens your natural lashes at t
 
 ### _HOW LONG DOES IT TAKE?_
 
-Ideal for those seeking a more natural look, the treatment takes just 40 minutes but the effects are instant. Indulge in this relaxing treatment by visiting one of our trained LVL lash technicians who will provide you with a comfortable set-up in a relaxing environment and perform a closed-eye procedure while you unwind.
+Ideal for those seeking a more natural look, the treatment takes just 40 minutes but the effects are instant. Indulge in this relaxing treatment by visiting myself who will provide you with a comfortable set-up in a relaxing environment and perform a closed-eye procedure while you unwind.
 
 ### _HOW LONG WILL IT LAST?_
 
