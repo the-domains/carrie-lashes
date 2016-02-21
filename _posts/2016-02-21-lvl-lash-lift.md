@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Lash Volume Lift
-datePublished: '2016-02-21T13:42:47.280Z'
-dateModified: '2016-02-21T13:42:22.203Z'
+datePublished: '2016-02-21T13:43:13.950Z'
+dateModified: '2016-02-21T13:43:00.116Z'
 title: LVL - Lash Lift
 author: []
 sourcePath: _posts/2016-02-21-lvl-lash-lift.md
