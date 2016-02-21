@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Lash Volume Lift
-datePublished: '2016-02-21T14:43:12.621Z'
-dateModified: '2016-02-21T14:43:12.056Z'
+datePublished: '2016-02-21T14:54:04.202Z'
+dateModified: '2016-02-21T14:43:39.851Z'
 title: LVL - Lash Lift
 author: []
 sourcePath: _posts/2016-02-21-lvl-lash-lift.md
@@ -27,7 +27,7 @@ _type: Article
 
 ##### CREATED EXCLUSIVELY BY NOUVEAU LASHES, LVL ENHANCE IS THE REVOLUTIONARY NATURAL LASH TREATMENT TAKING THE BEAUTY INDUSTRY BY STORM. 
 
-##### CLICK HERE FOR MORE DETAILS x
+##### CLICK HERE FOR MORE DETAILS xx
 
 _The treatment straightens your natural eyelashes at the root, so unlike a traditional lash perm it creates the effect of longer, lifted lashes in just 40 minutes. They'll stay that way for six to eight weeks, especially when you nurture your lashes with the [Nouveau Lashes Conditioning Serum][0]. The results are immediate, plus the added lash tint creates a mascara-type effect so you are always ready to go!_
 
