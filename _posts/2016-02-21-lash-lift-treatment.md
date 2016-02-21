@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Lisa Eldridge
-    url: 'https://www.youtube.com/user/lisaeldridgedotcom'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=Mjf2CrUO1DY'
+inLanguage: en
+starred: false
 keywords:
   - eldridge
   - duration
@@ -21,7 +17,13 @@ keywords:
   - alexa
   - http
 description: "Follow me on Instagram http://instagram.com/lisaeldridgemakeup for all my latest news. Visit http://www.lisae.me.uk/16137 to get all the information and details about this treatment, including links. Lisa Eldridge X Follow me on Google+ https://www.google.com/+LisaEldridge Follow me on Twitter at http://twitter.com/Lisa_Eldridge Follow me on Facebook http://facebook.com/LisaEldridgeDotCom Follow me on Instagram http://instagram.com/LisaEldridgemakeup Follow me on Pinterest http://pinterest.com/lisaeldridge Disclaimer I can't guarantee that all of the make-up and skincare products I recommend will suit you."
-inLanguage: en
+datePublished: '2016-02-21T11:39:31.115Z'
+dateModified: '2016-02-21T11:38:24.531Z'
+author:
+  - name: Lisa Eldridge
+    url: 'https://www.youtube.com/user/lisaeldridgedotcom'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Mjf2CrUO1DY&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Mjf2CrUO1DY'
 title: Lash Lift Treatment
-datePublished: '2016-02-21T11:33:59.590Z'
-dateModified: '2016-02-21T11:29:41.374Z'
 sourcePath: _posts/2016-02-21-lash-lift-treatment.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
