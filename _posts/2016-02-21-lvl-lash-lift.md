@@ -6,22 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: Lash Volume Lift
-datePublished: '2016-02-21T13:28:50.478Z'
-dateModified: '2016-02-21T13:28:49.985Z'
+datePublished: '2016-02-21T13:33:34.320Z'
+dateModified: '2016-02-21T13:33:05.347Z'
 title: LVL - Lash Lift
 author: []
+sourcePath: _posts/2016-02-21-lvl-lash-lift.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-21-lvl-lash-lift.md
-published: true
 url: lvl-lash-lift/index.html
 _type: WebPage
 
 ---
+# LVL - Lash Lift
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a4f2211-ed66-4c3f-ac83-85e28676f584.jpg)
+
 ##### CREATED EXCLUSIVELY BY NOUVEAU LASHES, LVL ENHANCE IS THE REVOLUTIONARY NATURAL LASH TREATMENT TAKING THE BEAUTY INDUSTRY BY STORM.
 
 The treatment straightens your natural eyelashes at the root, so unlike a traditional lash perm it creates the effect of longer, lifted lashes in just 40 minutes. They'll stay that way for six to eight weeks, especially when you nurture your lashes with our exclusive [Nouveau Lashes Conditioning Serum][0]. The results are immediate, plus the added lash tint creates a mascara-type effect so you are always ready to go.
@@ -39,5 +42,10 @@ Ideal for those seeking a more natural look, the treatment takes just 40 minutes
 Your natural lashes will promote the benefit of LVL Enhance for up to 6-8 weeks. Little maintenance is required once you leave the salon. What's more, by combining the treatment with regular use of our unique Nouveau Lashes [Conditioning Serum][0] to nourish your lashes, you could be about to say goodbye to mascara for good!
 
 ### _WHAT DOES IT LOOK LIKE?_
+
+__
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db056fc0-c078-46ba-be81-aa515836f381.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c134dbec-48e9-42f9-bc75-928aa6dfd741.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54cb4ad4-872d-4cc1-8014-19a3c440dee9.jpg)
 
 [0]: https://nouveaulashes.com/shop/conditioning-serum/
