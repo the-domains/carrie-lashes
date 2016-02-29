@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T22:18:04.194Z'
-dateModified: '2016-02-29T22:17:42.921Z'
+datePublished: '2016-02-29T22:18:15.037Z'
+dateModified: '2016-02-29T22:18:09.304Z'
 author: []
 title: ''
 sourcePath: _posts/2016-02-29-1st-london-show-down-next-one-is-slovenia-with-the-lovely-b.md
