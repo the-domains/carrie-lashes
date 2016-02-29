@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T21:40:45.659Z'
-dateModified: '2016-02-29T21:40:42.824Z'
+datePublished: '2016-02-29T21:41:05.797Z'
+dateModified: '2016-02-29T21:40:53.195Z'
 author: []
 title: "1st London show down, next one is Slovenia with the lovely\_Brigita Ravnjak"
+sourcePath: _posts/2016-02-29-1st-london-show-down-next-one-is-slovenia-with-the-lovely-b.md
+published: true
 authors: []
 publisher:
   name: facebook.com
   domain: www.facebook.com
   url: null
   favicon: null
-sourcePath: _posts/2016-02-29-1st-london-show-down-next-one-is-slovenia-with-the-lovely-b.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
