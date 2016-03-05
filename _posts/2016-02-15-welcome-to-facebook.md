@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T22:07:02.587Z'
-dateModified: '2016-02-15T22:07:00.940Z'
+datePublished: '2016-03-05T17:20:39.995Z'
+dateModified: '2016-03-05T17:19:46.516Z'
 author: []
 related: []
 app_links: []
@@ -27,6 +27,6 @@ _type: MediaObject
 ---
 <article style=""><h1>Facebook Review</h1></article>
 
-**_Janine Claire Saddler_**
+Janine Claire Saddler_._
 
 > Love love LOVE my volume lashes from Carrie :) they are beautiful and last ages! Perfect x
