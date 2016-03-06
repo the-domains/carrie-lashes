@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T23:59:39.312Z'
-dateModified: '2016-03-05T23:59:02.707Z'
+datePublished: '2016-03-06T00:02:58.544Z'
+dateModified: '2016-03-06T00:02:53.337Z'
 author:
   - name: sarafabel
     url: 'https://www.instagram.com/sarafabel'
@@ -29,7 +29,7 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-title: I would love to tattoo this image of Audrey I photoshopped together. Lowered rate for black and grey. Please contact me via Sara.fabel.tattoo@gmail.com
+title: 'Amazing!'
 sourcePath: _posts/2016-03-05-i-would-love-to-tattoo-this-image-of-audrey-i-photoshopped-t.md
 published: true
 authors: []
@@ -42,4 +42,7 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![I would love to tattoo this image of Audrey I photoshopped together&period; Lowered rate for black and grey&period; Please contact me via Sara&period;fabel&period;tattoo&commat;gmail&period;com](https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/12797692_152506651805174_747899310_n.jpg?ig_cache_key=MTE5OTU4NjYyNTIzNzI1NDgwMw%3D%3D.2)
+# Amazing!
+
+What a brilliant Photoshop picture!
+![I would love to tattoo this image of Audrey I photoshopped together. Lowered rate for black and grey. Please contact me via Sara.fabel.tattoo@gmail.com](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f197448cb1b894817342d3c8039a51af9f8483d.jpg)
