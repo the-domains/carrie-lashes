@@ -16,8 +16,8 @@ keywords:
   - ln6
   - 9st
 description: Contact me on Facebook
-datePublished: '2016-03-31T19:00:30.997Z'
-dateModified: '2016-03-31T19:00:30.426Z'
+datePublished: '2016-03-31T19:03:51.671Z'
+dateModified: '2016-03-31T19:03:39.018Z'
 author:
   - avatar:
       src: 'https://scontent.xx.fbcdn.net/hprofile-xal1/v/t1.0-1/c0.0.160.160/p160x160/1526523_1381785708801278_3982774152181188934_n.jpg?oh=d3eb7c45c9392ca311197f00201b97d0&oe=5726E2C5'
@@ -70,4 +70,4 @@ _context: 'http://schema.org'
 **[Contact me on Facebook][0]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b19f5c21-ee01-46b0-bfaf-216824c6cf0c.gif)
 
-[0]: Facebook.com/carrie.fuell
+[0]: https://www.facebook.com/carrie.fuell/?fref=ts
