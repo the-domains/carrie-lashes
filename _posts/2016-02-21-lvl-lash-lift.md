@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Lash Volume Lift
-datePublished: '2016-02-21T21:52:59.839Z'
-dateModified: '2016-02-21T21:52:35.932Z'
+description: "The treatment straightens your natural eyelashes at the root, so unlike a traditional lash perm it creates the effect of longer, lifted lashes in just 40 minutes. They’ll stay that way for six to eight weeks, especially when you nurture your lashes with the\_Nouveau Lashes Conditioning Serum. The results are immediate, plus the added lash tint creates a mascara-type effect so you are always ready to go!"
+datePublished: '2016-03-31T19:00:20.767Z'
+dateModified: '2016-03-31T19:00:19.527Z'
 title: LVL - Lash Lift
 author: []
 sourcePath: _posts/2016-02-21-lvl-lash-lift.md
@@ -35,9 +35,13 @@ _The treatment straightens your natural eyelashes at the root, so unlike a tradi
 
 Unlike a traditional lash perm, LVL Enhance straightens your natural lashes at the root, creating the appearance of longer, thicker lashes. Plus the added lash tint creates a mascara-style effect, so your lashes are perfect from the moment you wake up. No extensions, no adhesive and no need for mascara! 
 
-### _HOW LONG DOES IT TAKE?_
+### _[HOW LONG DOES IT TAKE?][1]_
 
 Ideal for those seeking a more natural look, the treatment takes just 40 minutes but the effects are instant. Indulge in this relaxing treatment by visiting myself who will provide you with a comfortable set-up in a relaxing environment and perform a closed-eye procedure while you unwind.
+
+HOW MUCH DOES IT COST?
+
+The overall treatment costs £40, this includes a lash tint and brow tidy
 
 ### _HOW LONG WILL IT LAST?_
 
@@ -53,3 +57,4 @@ __
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54cb4ad4-872d-4cc1-8014-19a3c440dee9.jpg)
 
 [0]: https://nouveaulashes.com/shop/conditioning-serum/
+[1]: null
