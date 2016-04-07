@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "The treatment straightens your natural eyelashes at the root, so unlike a traditional lash perm it creates the effect of longer, lifted lashes in just 40 minutes. They’ll stay that way for six to eight weeks, especially when you nurture your lashes with the\_Nouveau Lashes Conditioning Serum. The results are immediate, plus the added lash tint creates a mascara-type effect so you are always ready to go!"
-datePublished: '2016-03-31T19:00:20.767Z'
-dateModified: '2016-03-31T19:00:19.527Z'
+datePublished: '2016-04-07T22:42:27.050Z'
+dateModified: '2016-04-07T22:42:06.627Z'
 title: LVL - Lash Lift
 author: []
 sourcePath: _posts/2016-02-21-lvl-lash-lift.md
