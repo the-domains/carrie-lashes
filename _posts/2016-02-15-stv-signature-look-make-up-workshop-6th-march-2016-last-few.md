@@ -4,15 +4,13 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.facebook.com/STVcosmetics/posts/1295947163764914'
 inLanguage: null
-starred: false
 keywords: []
-description: STV Signature look Make-up Workshop 6th March 2016 LAST FEW SPACES remaining...... Learn the art of make up in this SIGNATURE LOOK make-up workshop...
-datePublished: '2016-02-15T09:37:37.252Z'
-dateModified: '2016-02-15T09:37:30.378Z'
+description: 'STV - STEVIE COMSETIC MAKEUP - Fantastic colleague of mine!'
+datePublished: '2016-04-25T19:51:30.103Z'
+dateModified: '2016-04-25T19:51:28.099Z'
 author:
-  - name: STV Cosmetics
-    url: 'http://facebook.com/1284120221614275'
-    avatar: {}
+  - name: ''
+    url: ''
 related: []
 title: ''
 app_links: []
@@ -24,6 +22,7 @@ publisher:
   domain: www.facebook.com
   url: 'http://www.facebook.com'
   favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
