@@ -3,7 +3,6 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
-starred: true
 keywords:
   - lash
   - lvl
@@ -16,29 +15,11 @@ keywords:
   - ln6
   - 9st
 description: Contact me on Facebook
-datePublished: '2016-03-31T19:03:51.671Z'
-dateModified: '2016-03-31T19:03:39.018Z'
+datePublished: '2016-04-25T19:51:04.237Z'
+dateModified: '2016-04-25T19:51:00.386Z'
 author:
-  - avatar:
-      src: 'https://scontent.xx.fbcdn.net/hprofile-xal1/v/t1.0-1/c0.0.160.160/p160x160/1526523_1381785708801278_3982774152181188934_n.jpg?oh=d3eb7c45c9392ca311197f00201b97d0&oe=5726E2C5'
-      width: 160
-      height: 160
-      colors:
-        - - 197
-          - 201
-          - 186
-        - - 172
-          - 160
-          - 134
-        - - 132
-          - 115
-          - 110
-        - - 102
-          - 85
-          - 84
-        - - 59
-          - 46
-          - 46
+  - name: ''
+    url: 'https://m.facebook.com/carrie.fuell/?tsid=0.7442600014619529&source=typeahead'
 related: []
 title: Carrie Fuell
 app_links:
@@ -58,6 +39,7 @@ publisher:
   domain: www.facebook.com
   url: 'https://www.facebook.com'
   favicon: 'https://static.xx.fbcdn.net/rsrc.php/yV/r/hzMapiNYYpW.ico'
+starred: true
 url: carrie-fuell-lash-artist-contact-me-on-facebook/index.html
 _type: Photograph
 _context: 'http://schema.org'
