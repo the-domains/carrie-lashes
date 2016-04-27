@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T21:26:58.076Z'
-dateModified: '2016-04-27T21:26:42.336Z'
+datePublished: '2016-04-27T21:27:33.187Z'
+dateModified: '2016-04-27T21:27:07.215Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-27-carrie-fuell.md
