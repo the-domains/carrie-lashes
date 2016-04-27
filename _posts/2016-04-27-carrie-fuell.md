@@ -2,14 +2,16 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'My name is Carrie Fuell and I am an international trainer for Nouveau lashes. I am based in lincoln and specialise in LVL, semi permanent eyelash extensions, Russian volume lash extensions and HD brows.'
-datePublished: '2016-04-27T20:11:08.229Z'
-dateModified: '2016-04-27T20:11:00.148Z'
+datePublished: '2016-04-27T20:14:45.659Z'
+dateModified: '2016-04-27T20:13:42.238Z'
 title: Carrie Fuell
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-27-carrie-fuell.md
 published: true
 authors: []
@@ -23,7 +25,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![International Lash Artist ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88dc7e19-85a4-4acd-bc5c-deb455672aa5.gif)
+![ ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88dc7e19-85a4-4acd-bc5c-deb455672aa5.gif)
 
 My name is Carrie Fuell and I am an international trainer for Nouveau lashes. I am based in lincoln and specialise in LVL, semi permanent eyelash extensions, Russian volume lash extensions and HD brows.
 
