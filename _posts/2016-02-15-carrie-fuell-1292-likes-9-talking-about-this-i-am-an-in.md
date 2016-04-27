@@ -15,8 +15,8 @@ keywords:
   - ln6
   - 9st
 description: Contact me on Facebook
-datePublished: '2016-04-27T07:09:51.687Z'
-dateModified: '2016-04-27T07:09:49.317Z'
+datePublished: '2016-04-27T07:16:41.040Z'
+dateModified: '2016-04-27T07:16:38.454Z'
 author:
   - name: ''
     url: 'https://m.facebook.com/carrie.fuell/?tsid=0.7442600014619529&source=typeahead'
@@ -47,7 +47,7 @@ _context: 'http://schema.org'
 ---
 # Carrie Fuell
 
-## Lash Artist
+## Lincoln Based Lash Artist
 
 **[Contact me on Facebook][0]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b19f5c21-ee01-46b0-bfaf-216824c6cf0c.gif)
