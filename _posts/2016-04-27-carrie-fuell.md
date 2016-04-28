@@ -1,18 +1,24 @@
 ---
-authors: []
-dateModified: '2016-04-27T21:35:39.724Z'
-datePublished: '2016-04-27T21:36:16.616Z'
-hasPage: false
 inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
+inLanguage: null
 keywords: []
-publisher: {}
-title: Bio
 description: 'My name is Carrie Fuell and I am an international trainer for Nouveau lashes. I am based in lincoln and specialise in LVL, semi permanent eyelash extensions, Russian volume lash extensions and HD brows.'
+datePublished: '2016-04-28T11:48:48.489Z'
+dateModified: '2016-04-28T11:48:45.567Z'
+title: Bio
 author: []
-starred: true
 sourcePath: _posts/2016-04-27-carrie-fuell.md
 published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 _context: 'http://schema.org'
 _type: Article
 
@@ -25,7 +31,7 @@ I have 10 years experience working with lash extensions and have worked on numer
 
 I attend regular conferences and training to ensure that I keep up to date with any changes within the industry
 
-Lashes are my passion and are perfect for every client, if you have any further questions please feel free to email me on [cfuell8@gmail.com][0] or contact me **[Contact me on Facebook][1]**
+Lashes are my passion and are perfect for every client, if you have any further questions please feel free to email me on [cfuell8@gmail.com][0] or **[Contact me on Facebook][1]**
 
 [0]: mailto:cfuell8@gmail.com
 [1]: https://www.facebook.com/carrie.fuell/?fref=ts
