@@ -1,15 +1,26 @@
 ---
-dateModified: '2016-04-28T20:36:15.613Z'
-title: Russian Volume Lashes
-hasPage: false
 inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
+inLanguage: null
+keywords: []
 description: 'An example of a natural set of lashes to compliment natural beauty '
-author: []
-starred: false
-datePublished: '2016-04-28T20:36:57.685Z'
+datePublished: '2016-04-28T20:45:18.017Z'
+dateModified: '2016-04-28T20:45:10.632Z'
+title: Russian Volume Lashes
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-28-russian-volume-lashes.md
 published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
