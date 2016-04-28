@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: 'An example of a natural set of lashes to compliment natural beauty '
-datePublished: '2016-04-28T20:45:18.017Z'
-dateModified: '2016-04-28T20:45:10.632Z'
+datePublished: '2016-04-28T20:46:41.571Z'
+dateModified: '2016-04-28T20:45:31.280Z'
 title: Russian Volume Lashes
 author:
   - name: ''
