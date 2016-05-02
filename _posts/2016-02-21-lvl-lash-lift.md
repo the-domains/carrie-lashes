@@ -4,11 +4,13 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "The treatment straightens your natural eyelashes at the root, so unlike a traditional lash perm it creates the effect of longer, lifted lashes in just 40 minutes. They’ll stay that way for six to eight weeks, especially when you nurture your lashes with the\_Nouveau Lashes Conditioning Serum. The results are immediate, plus the added lash tint creates a mascara-type effect so you are always ready to go!"
-datePublished: '2016-05-02T12:46:14.502Z'
-dateModified: '2016-05-02T12:46:09.413Z'
+description: 'The treatment straightens your natural eyelashes at the root, so unlike a traditional lash perm it creates the effect of longer, lifted lashes in just 40 minutes. They’ll stay that way for six to eight weeks, especially when you nurture your lashes with the Nouveau Lashes Conditioning Serum. The results are immediate, plus the added lash tint creates a mascara-type effect so you are always ready to go!'
+datePublished: '2016-05-02T13:03:19.116Z'
+dateModified: '2016-05-02T13:01:18.639Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-21-lvl-lash-lift.md
 published: true
 authors: []
@@ -17,13 +19,13 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: lvl-lash-lift/index.html
 _type: Article
 
 ---
 # LVL - Lash Lift
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a4f2211-ed66-4c3f-ac83-85e28676f584.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d09414aad8b7303bb39e11329ba65a825bf4d827.jpg)
 
 ##### CREATED EXCLUSIVELY BY NOUVEAU LASHES, LVL ENHANCE IS THE REVOLUTIONARY NATURAL LASH TREATMENT TAKING THE BEAUTY INDUSTRY BY STORM. 
 
